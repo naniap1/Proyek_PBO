@@ -1,0 +1,60 @@
+.root {
+    -fx-font-size: 14pt;
+}
+
+.center {
+    -fx-background-color: #B3A492;
+}
+
+.nav-btn {
+    -fx-font-size: 14pt;
+    -fx-background-color: #4F6F52;
+    -fx-text-fill: #ffffff;
+    -fx-padding: 10 20 10 20;
+}
+
+.nav-btn:hover {
+    -fx-background-color: #3a4d39;
+}
+
+#nav-form {
+    -fx-background-color: #b3a492;
+}
+
+#nav-user-icon {
+    -fx-fill: #3a4d39;
+}
+
+#dashboard {
+    -fx-background-color: #D6C7AE;
+}
+
+#product-form {
+    -fx-background-color: #ECE3CE;
+}
+
+#product-form Text {
+    -fx-font-size: 14pt;
+    -fx-fill: #3a4d39;
+}
+
+#product-form TextField {
+    -fx-font-size: 14pt;
+}
+
+#product-form Button {
+    -fx-font-size: 14pt;
+    -fx-text-fill: #ffffdd;
+}
+
+#product-form #CECE5A {
+    -fx-background-color: #CECE5A;
+}
+
+#product-form #FFE17B {
+    -fx-background-color: #FFE17B;
+}
+
+#product-form #C51605 {
+    -fx-background-color: #C51605;
+}

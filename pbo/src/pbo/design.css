@@ -1,0 +1,27 @@
+/* design.css */
+
+/* Login Background */
+.login-bg {
+    -fx-background-color: #ffffff; /* Set the background color */
+}
+
+/* Login Form Elements */
+.textfield-design {
+    -fx-background-color: #f0f0f0; /* Set the background color for text fields */
+    -fx-border-color: #d0d0d0; /* Set the border color */
+}
+
+.button-design {
+    -fx-background-color: #4caf50; /* Set the background color for the login button */
+    -fx-text-fill: #ffffff; /* Set the text color for the login button */
+}
+
+/* Login Card */
+.login-card {
+    -fx-background-color: #333333; /* Set the background color for the login card */
+}
+
+/* Common Styling for FontAwesome Icons */
+.icon {
+    -fx-fill: #000000; /* Set the default color for icons */
+}

@@ -1,0 +1,39 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.top-form{
+    -fx-background-color: #3A4D39;
+}
+
+.nav-form{
+    -fx-background-color: #3A4D39;
+}
+
+.nav-btn {
+    -fx-background-color: #3a4d39;
+    -fx-text-fill: #ece3ce;
+}
+
+.nav-btn:hover {
+    -fx-background-color: #2b3a2a;
+}
+
+.center.form{
+    -fx-background-color: #3A4D39;
+}
+
+.card {
+    -fx-background-color: #ece3ce;
+    -fx-background-radius: 5;
+    -fx-padding: 10;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+}
+
+.icon {
+    -fx-fill: #3a4d39;
+}
+
+.label {
+    -fx-text-fill: #3a4d39;
+}
